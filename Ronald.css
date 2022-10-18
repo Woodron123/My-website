@@ -1,0 +1,45 @@
+body {			
+    font-family: arial, verdana, helvetica; 
+    color: black; 
+    font-size: 14px; 
+    background-color: #FFFFFF;;
+}
+
+h1 {
+    font-family: "courier new", arial, sans-serif; 
+    color: black; 
+    font-size: 32px;
+} 
+
+h2 {			
+    font-family:"courier new", arial, sans-serif; 
+    color: gray; 
+    text-decoration: underline;
+    font-size: 27px;
+} 
+
+h3 {
+    font-family:"courier new", arial, sans-serif; 
+    color: gray; 
+    font-size: 16px;
+    text-decoration: underline;
+}  
+
+h4 {
+    font-family:"courier new", arial, sans-serif; 
+    color: gray; 
+    font-size: 12px;
+    text-decoration: underline;
+}  
+
+p {
+    font-family:"Garamond", arial, sans-serif; 
+    color: black;
+    font-size: 12px;
+}
+
+ul {
+    font-family:"Garamond", arial, sans-serif; 
+    color: black;
+    font-size: 12px;
+}
